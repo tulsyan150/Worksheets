@@ -1,0 +1,38 @@
+question 1 : answer is option (b)
+question 2 : answer is option (c)
+question 3 : answer is option (b)
+question 4 : answer is option (b)
+question 5 : answer is option (c)
+question 6 : answer is option (c)
+question 7 : answer is option (d)
+question 8 : answer is option (b)
+question 9 : answer is option (a & d)
+question 10 : answer is option (a,c & d)
+question 11 :
+answer) >> LIST: A List is similar to an array that consists of  group of elements or items. We can store different types of elements in a list. It is more versatile useful than an array. These are the most used datatypes in Python Programs
+
+>> TUPLES: A Tuple is Pyhton Sequence which can store different elements and types of data like lists.  The difference between tuple and lists are that the lists are mutable and tuples are immutable. We cannot perform funtions like extend(), append(),insert(),pop() & clear() in tuples. Tuples should be used to store data which should not be modified and retrieve that data on demand.
+
+>> SETS: A Set is an unordered collection of elements much like a set in mathematics. The order of elements is not maintained in the sets. It means the elements may not appear in the same order as they were entered. Also sets do not accept duplicate elements:
+
+>> DICTIONARY: A Dict represents a Group of elements arranged in the form of key - value pairs. The first element is considered as key and the immediate next element is considered as value. Key & Values are seperated by colons(:).
+
+question 12 : 
+answer)
+_____________________________
+var= "I+LOVE+PYTHON"
+newvar= var.replace("+"," ")
+print(newvar)
+_____________________________
+question 13 : 
+ans) ord(): It accepts a string of length 1 as an argument and returns the unicode code point representation of the passed argument. 
+
+For EXAMPLE :input: print("the unicode of the value A is: ",ord("A"))
+             output: the unicode of the value A is: 65
+
+funtion for getting the datatype of the varible is as follows: 
+
+.type()
+
+question 14 : answer is uploaded on github
+question 15 : answer is uploaded on github
