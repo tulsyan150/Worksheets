@@ -1,0 +1,33 @@
+SQL WORKSHEET ANSWERS:
+
+QUESTION 1) ANSWER: the answer for question 1 is option(a & d)
+QUESTION 2) ANSWER: the answer for question 2 is option(a & b)
+QUESTION 3) ANSWER: the answer for question 3 is option(b)
+QUESTION 4) ANSWER: the answer for question 4 is option(b)
+QUESTION 5) ANSWER: the answer for question 5 is option(a)
+QUESTION 6) ANSWER: the answer for question 6 is option(c)
+QUESTION 7) ANSWER: the answer for question 7 is option(b)
+QUESTION 8) ANSWER: the answer for question 8 is option(b)
+QUESTION 9) ANSWER: the answer for question 9 is option(b)
+QUESTION 10) ANSWER: the answer for question 10 is option(c)
+QUESTION 11) ANSWER: 
+
+>> A Data Warehousing (DW) is process for collecting and managing data from varied sources to provide meaningful business insights. A Data warehouse is typically used to connect and analyze business data from heterogeneous sources. The data warehouse is the core of the BI system which is built for data analysis and reporting.
+
+QUESTION 12) ANSWER: the answer for question 12 is:
+
+OLTP and OLAP: The two terms look similar but refer to different kinds of systems. Online transaction processing (OLTP) captures, stores, and processes data from transactions in real time. Online analytical processing (OLAP) uses complex queries to analyze aggregated historical data from OLTP systems.
+
+QUESTION 13) ANSWER: the answer for question 13 is:
+
+Integrated: The way data is extracted and transformed is uniform, regardless of the original source.
+Time-variant: Data is organized via time-periods (weekly, monthly, annually, etc.).
+Non-volatile: A data warehouse is not updated in real-time.
+
+QUESTION 14) ANSWER: the answer for question 14 is:
+
+The star schema is the simplest style of data mart schema and is the approach most widely used to develop data warehouses and dimensional data marts. The star schema consists of one or more fact tables referencing any number of dimension tables. The star schema is an important special case of the snowflake schema, and is more effective for handling simpler queries.
+
+QUESTION 15) ANSWER: the answer for question 15 is:
+
+SETL provides two basic aggregate data types: unordered sets, and sequences (the latter also called tuples). The elements of sets and tuples can be of any arbitrary type, including sets and tuples themselves. Maps are provided as sets of pairs (i.e., tuples of length 2) and can have arbitrary domain and range types. Primitive operations in SETL include set membership, union, intersection, and power set construction, among others.
