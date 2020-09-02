@@ -1,0 +1,42 @@
+Question(1) answer is option (D)
+Question(2) answer is option (C)
+Question(3) answer is option (C)
+Question(4) answer is option (A)
+Question(5) answer is option (A)
+Question(6) answer is option (C)
+Question(7) answer is option (B)
+Question(8) answer is option (A)
+Question(9) answer is option (A,B & C)
+Question(10) answer is option (B)
+Question(11) answer is:
+
+Deep learning is a type of machine learning (ML) and artificial intelligence (AI) that imitates the way humans gain certain types of knowledge. Deep learning is an important element of data science, which includes statistics and predictive modeling. It is extremely beneficial to data scientists who are tasked with collecting, analyzing and interpreting large amounts of data; deep learning makes this process faster and easier.
+
+Question(12) answer is:
+
+Reinforcement learning (RL) is learning by interacting with an environment. An RL agent learns from the consequences of its actions, rather than from being explicitly taught and it selects its actions on basis of its past experiences (exploitation) and also by new choices (exploration), which is essentially trial and error learning. The reinforcement signal that the RL-agent receives is a numerical reward, which encodes the success of an action's outcome, and the agent seeks to learn to select actions that maximize the accumulated reward over time.
+
+Question(13) answer is:
+
+>>With machine learning systems, a human needs to identify and hand-code the applied features based on the data type (for example,pixel value, shape, orientation), a deep learning system tries to learn those features without additional human intervention.
+
+>>Due to the amount of data being processed and the complexity of the mathematical calculations involved in the algorithms used, deep learning systems require much more powerful hardware than simpler machine learning systems. One type of hardware used for deep learning is graphical processing units (GPUs). Machine learning programs can run on lower-end machines without as much computing power.
+
+Question(14) answer is:
+
+
+A Perceptron is an algorithm for supervised learning of binary classifiers. This algorithm enables neurons to learn and processes elements in the training set one at a time.
+
+There are two types of Perceptrons: Single layer and Multilayer.
+
+>>Single layer Perceptrons can learn only linearly separable patterns.
+
+>>Multilayer Perceptrons or feedforward neural networks with two or more layers have the greater processing power.
+
+Question(15) answer is :
+
+>>AI stands for Artificial intelligence, where intelligence is defined acquisition of knowledge intelligence is defined as a ability to acquire and apply knowledge.	ML stands for Machine Learning which is defined as the acquisition of knowledge or skill.
+
+>>The aim is to increase chance of success and not accuracy.	The aim is to increase accuracy, but it does not care about success
+
+>>It work as a computer program that does smart work	It is a simple concept machine takes data and learn from data.
